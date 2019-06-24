@@ -5,11 +5,12 @@ A free Frontend Optimization (FEO) widget that works offline and for pages behin
 - extract critical CSS
 - CSS editor
 - CSS beautify
-- CSS minify / optimization
+- [clean-css](https://github.com/jakubpawlowicz/clean-css) optimization
 - repair broken CSS
 - remove unused CSS
 - remove duplicate CSS
-- PostCSS plugins: autoprefixer
+- extract unused and duplicate CSS (for automated unused CSS removal)
+- PostCSS plugins: autoprefixer and more
 - CSS lint
 - CSS analysis
 
