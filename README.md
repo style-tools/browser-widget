@@ -2,7 +2,7 @@
 
 A free Frontend Optimization (FEO) widget that works offline and for pages behind a login.
 
-- extract critical CSS
+- critical CSS generator
 - CSS editor
 - CSS beautify
 - [clean-css](https://github.com/jakubpawlowicz/clean-css) optimization
